@@ -46,7 +46,7 @@ description="Using POV and reskin."
 
 name="Jetstream Build v2.1"
 version="2.1"
-url="https://www.dropbox.com/scl/fi/xjrjer4p3ui57stfbtir3/Jetstream_v2.1.zip?rlkey=p6xs2x6p3lm7e5aicf8q7lcui&st=9ngvz275&dl=1"
+url="https://www.dropbox.com/scl/fi/72tvybqwptspp5ih1ldz8/Jetstream_v2.1.zip?rlkey=9w3ptjzwnve1hqhyrkrqw68x9&st=i11q0h1q&dl=1"
 minor="http://"
 gui="url.to.guisettings"
 kodi="21.3"
